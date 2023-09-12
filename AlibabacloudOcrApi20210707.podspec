@@ -4,7 +4,7 @@ Pod::Spec.new do |spec|
   spec.version      = "1.2.0"
   spec.license      = "Apache 2.0"
   spec.summary      = "Alibaba Cloud ocr-api (20210707) SDK Library for Swift"
-  spec.homepage     = "https://github.com/alibabacloud-sdk-swift/ocr-api-20210707" 
+  spec.homepage     = "https://github.com/yjm5158/ocr-api-20210707" 
   spec.author       = { "Alibaba Cloud SDK" => "sdk-team@alibabacloud.com" }
 
   spec.source       = { :git => spec.homepage + '.git', :tag => spec.version }
